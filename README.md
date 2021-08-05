@@ -45,19 +45,16 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :walking: Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xingxinhe&show_icons=true&locale=en" alt="xingxinhe" />
+### 🧮Github Stats
 
-</details>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xingxinhe&show_icons=true&locale=en&bg_color=712121&text_color=ffffff&title_color=000000&icon_color=452424" alt="xingxinhe" />
+
 
 [website]: https://www.xingxin.me/about
 [instagram]: https://instagram.com/haloiamhxx
