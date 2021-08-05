@@ -35,6 +35,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unreal Engine C++ Developer #1](https://www.xingxin.me/my-path-to-code/unreal-engine-c-developer-1)
+- [C++ Primer #02 Variables and Basic Types](https://www.xingxin.me/my-path-to-code/cpp-primer-02-variables-and-basic-types)
+- [C++ Primer #01 Getting Started](https://www.xingxin.me/my-path-to-code/cpp-primer)
+- [Linagl#02 Elimination with Matrices](https://www.xingxin.me/my-path-to-code/linagl02-elimination-with-matrices)
+- [Linagl#01 The Geometry of Linear Equations](https://www.xingxin.me/my-path-to-code/linagl-the-geometry-of-linear-equations)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][my-blog]
