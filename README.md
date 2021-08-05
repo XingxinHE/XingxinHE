@@ -19,7 +19,7 @@
 [<img align="left" alt="Xingxin He | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="haloiamhxx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br />
 
 ---
 
@@ -30,7 +30,7 @@
 3. ❌ Closed PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
 4. 🗣 Commented on [#870](https://github.com/compas-dev/compas/issues/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
 5. 💪 Opened PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
-  <!--END_SECTION:activity-->
+    <!--END_SECTION:activity-->
 
 
 
