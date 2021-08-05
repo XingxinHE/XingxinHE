@@ -2,20 +2,20 @@
 
 ## A philomath of digital geometry with AEC background.
 
-- 🌱 I’m currently learning **C++, discrete differential geometry**
+- 🌱 I’m currently learning **C++**, [discrete differential geometry][DDG]
 
 - 📝 I regularly write articles on [my blog][my_blog]
 
 - 💬 Ask me about **RhinoCommon, Grasshopper**
 
-- 📫 How to reach me **xingxin.he@mail.polimi.it**
+- 📫 You can reach me **xingxin.he@mail.polimi.it**
 
-- ⚡ My 2021 goal **is to contribute more on Open source project**
+- ⚡ My 2021 goal is to contribute more on [Open source project][compas]
 
 ### Connect with me:
 
 [<img align="left" alt="about" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Xingxin He | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Xingxin He | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="haloiamhxx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -42,7 +42,6 @@
 - [Linagl#01 The Geometry of Linear Equations](https://www.xingxin.me/my-path-to-code/linagl-the-geometry-of-linear-equations)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...][my-blog]
 
 ---
 
@@ -64,4 +63,5 @@
 [instagram]: https://instagram.com/haloiamhxx
 [linkedin]: https://linkedin.com/in/xingxin-he
 [my_blog]: https://www.xingxin.me/my-path-to-code
-
+[compas]: https://github.com/XingxinHE/compas/tree/trimesh_rhino
+[DDG]: https://github.com/XingxinHE/ComputationalGeometry
