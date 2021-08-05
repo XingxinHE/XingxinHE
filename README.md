@@ -47,6 +47,11 @@
 
 ### :walking: Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#18315](https://github.com/jsdelivr/jsdelivr/issues/18315) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
+2. ❌ Reopened PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
+3. ❌ Closed PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
+4. 🗣 Commented on [#870](https://github.com/compas-dev/compas/issues/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
+5. 💪 Opened PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
 <!--END_SECTION:activity-->
 
 
