@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [C# 04 Study Notes Decision Statement](https://www.xingxin.me/my-path-to-code/c-0102-study-notes-variables-operators-and-expressions-2p4mt-bcaw7)
-- [C# 03 Study Notes Methods and Scope](https://www.xingxin.me/my-path-to-code/c-0102-study-notes-variables-operators-and-expressions-2p4mt)
-- [C# 01,02 Study Notes Variables, operators, and expressions](https://www.xingxin.me/my-path-to-code/c-0102-study-notes-variables-operators-and-expressions)
-- [VR# What&#39;s Real About Virtual Reality?](https://www.xingxin.me/my-path-to-code/vr-whats-real-about-virtual-reality)
-- [Unreal Engine C++ Developer #1](https://www.xingxin.me/my-path-to-code/unreal-engine-c-developer-1)
+- [Agile Software Development# 10.LSP: The Liskov Substitution Principle](https://www.xingxin.me/my-path-to-code/10lsp-the-liskov-substitution-principle)
+- [Agile Software Development# 9.OCP: The Open-Closed Principle](https://www.xingxin.me/my-path-to-code/9ocp-the-open-closed-principle)
+- [Agile Software Development# 8.SRP: The Single-Responsibility Principle](https://www.xingxin.me/my-path-to-code/8srp-the-single-responsibility-principle)
+- [Agile Software Development# 07 What is Agile Design?](https://www.xingxin.me/my-path-to-code/7what-is-agile-design)
+- [C# 04 Study Notes Decision Statement](https://www.xingxin.me/my-path-to-code/c-04-study-notes-decision-statement)
 <!-- BLOG-POST-LIST:END -->
 
 
