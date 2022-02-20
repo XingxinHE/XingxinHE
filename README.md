@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# 04 Study Notes Decision Statement](https://www.xingxin.me/my-path-to-code/c-0102-study-notes-variables-operators-and-expressions-2p4mt-bcaw7)
+- [C# 03 Study Notes Methods and Scope](https://www.xingxin.me/my-path-to-code/c-0102-study-notes-variables-operators-and-expressions-2p4mt)
+- [C# 01,02 Study Notes Variables, operators, and expressions](https://www.xingxin.me/my-path-to-code/c-0102-study-notes-variables-operators-and-expressions)
+- [VR# What&#39;s Real About Virtual Reality?](https://www.xingxin.me/my-path-to-code/vr-whats-real-about-virtual-reality)
 - [Unreal Engine C++ Developer #1](https://www.xingxin.me/my-path-to-code/unreal-engine-c-developer-1)
-- [C++ Primer #02 Variables and Basic Types](https://www.xingxin.me/my-path-to-code/cpp-primer-02-variables-and-basic-types)
-- [C++ Primer #01 Getting Started](https://www.xingxin.me/my-path-to-code/cpp-primer)
-- [Linagl#02 Elimination with Matrices](https://www.xingxin.me/my-path-to-code/linagl02-elimination-with-matrices)
-- [Linagl#01 The Geometry of Linear Equations](https://www.xingxin.me/my-path-to-code/linagl-the-geometry-of-linear-equations)
 <!-- BLOG-POST-LIST:END -->
 
 
