@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on [my blog][my_blog]
 - 💬 Ask me about **RhinoCommon, Grasshopper**
 - 📫 You can reach me **xingxin.he@mail.polimi.it**
-- ⚡ My 2021 goal is to contribute more on [Open source project][compas]
+- ⚡ My 2022 goal is to develop my own project and contribute more on [Open source project][compas]
 
 
 
