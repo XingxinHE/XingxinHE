@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential C++ # 02. Procedural Programming](https://www.xingxin.me/my-path-to-code/chapter-2-procedural-programming)
+- [Essential C++ #  01. Basic C++ Programming](https://www.xingxin.me/my-path-to-code/chapter-1-basic-cpp-programming)
 - [Agile Software Development# 10.LSP: The Liskov Substitution Principle](https://www.xingxin.me/my-path-to-code/10lsp-the-liskov-substitution-principle)
 - [Agile Software Development# 9.OCP: The Open-Closed Principle](https://www.xingxin.me/my-path-to-code/9ocp-the-open-closed-principle)
 - [Agile Software Development# 8.SRP: The Single-Responsibility Principle](https://www.xingxin.me/my-path-to-code/8srp-the-single-responsibility-principle)
-- [Agile Software Development# 07 What is Agile Design?](https://www.xingxin.me/my-path-to-code/7what-is-agile-design)
-- [C# 04 Study Notes Decision Statement](https://www.xingxin.me/my-path-to-code/c-04-study-notes-decision-statement)
 <!-- BLOG-POST-LIST:END -->
 
 
