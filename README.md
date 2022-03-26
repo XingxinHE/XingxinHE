@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# in Depth 02 Generics](https://www.xingxin.me/my-path-to-code/c-in-depth-02-generics)
 - [Clean Coder # 01. Professionalism](https://www.xingxin.me/my-path-to-code/cleancoder-1-professionalism)
 - [Essential C++ # 03. Generic Programming](https://www.xingxin.me/my-path-to-code/chapter-3-generic-programming)
 - [Essential C++ # 02. Procedural Programming](https://www.xingxin.me/my-path-to-code/chapter-2-procedural-programming)
 - [Essential C++ #  01. Basic C++ Programming](https://www.xingxin.me/my-path-to-code/chapter-1-basic-cpp-programming)
-- [Agile Software Development# 10.LSP: The Liskov Substitution Principle](https://www.xingxin.me/my-path-to-code/10lsp-the-liskov-substitution-principle)
 <!-- BLOG-POST-LIST:END -->
 
 
