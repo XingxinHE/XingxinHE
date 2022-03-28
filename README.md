@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean Coder # 02. Saying No](https://www.xingxin.me/my-path-to-code/cleancoder-2-saying-no)
+- [C# 05 Study Notes Compound and Iteration statements](https://www.xingxin.me/my-path-to-code/c-05-compound-and-iteration-statements)
 - [C# 24 Study Notes Concurrency by Asynchronous](https://www.xingxin.me/my-path-to-code/c-24-study-notes-concurrency-by-async)
 - [C# in Depth 02 Generics](https://www.xingxin.me/my-path-to-code/c-in-depth-02-generics)
 - [Clean Coder # 01. Professionalism](https://www.xingxin.me/my-path-to-code/cleancoder-1-professionalism)
-- [Essential C++ # 03. Generic Programming](https://www.xingxin.me/my-path-to-code/chapter-3-generic-programming)
-- [Essential C++ # 02. Procedural Programming](https://www.xingxin.me/my-path-to-code/chapter-2-procedural-programming)
 <!-- BLOG-POST-LIST:END -->
 
 
