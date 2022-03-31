@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential C++ # 04. Object-Based Programming](https://www.xingxin.me/my-path-to-code/chapter-4-object-based-programming)
 - [C# 06 Study Notes Errors and exceptions](https://www.xingxin.me/my-path-to-code/c-06-errors-and-exceptions)
 - [Clean Coder # 02. Saying No](https://www.xingxin.me/my-path-to-code/cleancoder-2-saying-no)
 - [C# 05 Study Notes Compound and Iteration statements](https://www.xingxin.me/my-path-to-code/c-05-compound-and-iteration-statements)
 - [C# 24 Study Notes Concurrency by Asynchronous](https://www.xingxin.me/my-path-to-code/c-24-study-notes-concurrency-by-async)
-- [C# in Depth 02 Generics](https://www.xingxin.me/my-path-to-code/c-in-depth-02-generics)
 <!-- BLOG-POST-LIST:END -->
 
 
