@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Abstraction in C++ # 02. Functions and Libraries](https://www.xingxin.me/my-path-to-code/chapter-2-functions-and-libraries)
+- [Programming Abstraction in C++ # 01. Overview of C++](https://www.xingxin.me/my-path-to-code/chapter-1-overview-of-cpp)
 - [Essential C++ # 05. Object-Oriented Programming](https://www.xingxin.me/my-path-to-code/chapter-5-object-oriented-programming)
 - [Essential C++ # 04. Object-Based Programming](https://www.xingxin.me/my-path-to-code/chapter-4-object-based-programming)
 - [C# 06 Study Notes Errors and exceptions](https://www.xingxin.me/my-path-to-code/c-06-errors-and-exceptions)
-- [Clean Coder # 02. Saying No](https://www.xingxin.me/my-path-to-code/cleancoder-2-saying-no)
-- [C# 05 Study Notes Compound and Iteration statements](https://www.xingxin.me/my-path-to-code/c-05-compound-and-iteration-statements)
 <!-- BLOG-POST-LIST:END -->
 
 
