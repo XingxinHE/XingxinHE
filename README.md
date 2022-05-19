@@ -2,11 +2,10 @@
 
 ## A philomath of digital geometry with AEC background.
 
-- 🌱 I’m currently learning **C++**, [discrete differential geometry][DDG]
-- 📝 I regularly write articles on [my blog][my_blog]
-- 💬 Ask me about **RhinoCommon, Grasshopper**
+- 🌱 I’m currently learning **C++** and [discrete differential geometry][DDG]
+- 📝 I regularly write articles on [my blog][my_blog].
 - 📫 You can reach me **xingxin.he@mail.polimi.it**
-- ⚡ My 2022 goal is to develop my own project and contribute more on [Open source project][compas]
+- ⚡ My 2022 goal is to read 3 books on C++.
 
 
 
