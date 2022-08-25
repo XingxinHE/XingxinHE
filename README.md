@@ -24,7 +24,7 @@
 
 ### :walking: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3480](https://github.com/typora/typora-issues/issues/3480) in [typora/typora-issues](https://github.com/typora/typora-issues)
+1. 🗣 Commented on [#4187](https://github.com/logseq/logseq/issues/4187) in [logseq/logseq](https://github.com/logseq/logseq)
 2. ❗️ Opened issue [#18315](https://github.com/jsdelivr/jsdelivr/issues/18315) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
 3. ❌ Reopened PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
 4. ❌ Closed PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
