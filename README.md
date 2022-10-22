@@ -24,7 +24,7 @@
 
 ### :walking: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/PiotrSss/logseq-clean-themes/issues/3) in [PiotrSss/logseq-clean-themes](https://github.com/PiotrSss/logseq-clean-themes)
+1. 💪 Opened PR [#91](https://github.com/alecjacobson/geometry-processing-introduction/pull/91) in [alecjacobson/geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction)
 2. 🗣 Commented on [#4187](https://github.com/logseq/logseq/issues/4187) in [logseq/logseq](https://github.com/logseq/logseq)
 3. ❌ Reopened PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
 4. ❌ Closed PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
