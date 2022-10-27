@@ -24,9 +24,9 @@
 
 ### :walking: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
-2. 💪 Opened PR [#91](https://github.com/alecjacobson/geometry-processing-introduction/pull/91) in [alecjacobson/geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction)
-3. ❌ Reopened PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
+1. 🗣 Commented on [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
+2. ❗️ Opened issue [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
+3. 💪 Opened PR [#91](https://github.com/alecjacobson/geometry-processing-introduction/pull/91) in [alecjacobson/geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction)
 4. ❌ Closed PR [#870](https://github.com/compas-dev/compas/pull/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
 5. 🗣 Commented on [#870](https://github.com/compas-dev/compas/issues/870) in [compas-dev/compas](https://github.com/compas-dev/compas)
     <!--END_SECTION:activity-->
