@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **C++** and [discrete differential geometry][DDG]
 - 📝 I regularly write articles on [my blog][my_blog].
 - 📫 You can reach me **xingxin.he@mail.polimi.it**
-- ⚡ My 2022 goal is to read 3 books on C++.
+- ⚡ My 2024 goal is to read 3 books on C++.
 
 
 
@@ -17,6 +17,7 @@
 [<img align="left" alt="about" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Xingxin He | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="haloiamhxx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Hex 16 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -56,6 +57,7 @@
 
 [website]: https://www.xingxin.me/about
 [instagram]: https://instagram.com/haloiamhxx
+[youtube]: https://www.youtube.com/channel/UCY0AvzIUR6XFJU9yJLOnq8Q
 [linkedin]: https://linkedin.com/in/xingxin-he
 [my_blog]: https://www.xingxin.me/my-path-to-code
 [compas]: https://github.com/XingxinHE/compas/tree/trimesh_rhino
