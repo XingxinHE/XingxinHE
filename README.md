@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Graceful Complexity of Nondeterministic Finite Automata](https://www.xingxin.me/my-path-to-code/the-graceful-complexity-of-nondeterministic-finite-automata)
-- [Programming Abstraction in C++ # 02. Functions and Libraries](https://www.xingxin.me/my-path-to-code/chapter-2-functions-and-libraries)
-- [Programming Abstraction in C++ # 01. Overview of C++](https://www.xingxin.me/my-path-to-code/chapter-1-overview-of-cpp)
-- [Essential C++ # 05. Object-Oriented Programming](https://www.xingxin.me/my-path-to-code/chapter-5-object-oriented-programming)
-- [Essential C++ # 04. Object-Based Programming](https://www.xingxin.me/my-path-to-code/chapter-4-object-based-programming)
+- [The Graceful Complexity of Nondeterministic Finite Automata](https://xingxinhe.com/my-path-to-code/the-graceful-complexity-of-nondeterministic-finite-automata)
+- [Programming Abstraction in C++ # 02. Functions and Libraries](https://xingxinhe.com/my-path-to-code/chapter-2-functions-and-libraries)
+- [Programming Abstraction in C++ # 01. Overview of C++](https://xingxinhe.com/my-path-to-code/chapter-1-overview-of-cpp)
+- [Essential C++ # 05. Object-Oriented Programming](https://xingxinhe.com/my-path-to-code/chapter-5-object-oriented-programming)
+- [Essential C++ # 04. Object-Based Programming](https://xingxinhe.com/my-path-to-code/chapter-4-object-based-programming)
 <!-- BLOG-POST-LIST:END -->
 
 
