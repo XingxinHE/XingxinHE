@@ -59,6 +59,6 @@
 [instagram]: https://instagram.com/haloiamhxx
 [youtube]: https://www.youtube.com/channel/UCY0AvzIUR6XFJU9yJLOnq8Q
 [linkedin]: https://linkedin.com/in/xingxin-he
-[my_blog]: https://www.xingxin.me/my-path-to-code
+[my_blog]: https://blog.xingxinhe.com/About
 [compas]: https://github.com/XingxinHE/compas/tree/trimesh_rhino
 [DDG]: https://github.com/XingxinHE/ComputationalGeometry
