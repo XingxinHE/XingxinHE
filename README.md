@@ -25,7 +25,7 @@
 
 ### :walking: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/gaurangsaini/sipser-computation-3rd-solutions/issues/8#issuecomment-1722402456) in [gaurangsaini/sipser-computation-3rd-solutions](https://github.com/gaurangsaini/sipser-computation-3rd-solutions)
+1. ❗ Opened issue [#12](https://github.com/kepano/obsidian-minimal-publish/issues/12) in [kepano/obsidian-minimal-publish](https://github.com/kepano/obsidian-minimal-publish)
 2. 🗣 Commented on [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
 3. 🗣 Commented on [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
 4. ❗️ Opened issue [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
