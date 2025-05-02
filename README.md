@@ -25,7 +25,7 @@
 
 ### :walking: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/kepano/obsidian-minimal-publish/issues/12) in [kepano/obsidian-minimal-publish](https://github.com/kepano/obsidian-minimal-publish)
+1. 🗣 Commented on [#1040](https://github.com/vercel/next-learn/pull/1040#issuecomment-2846906350) in [vercel/next-learn](https://github.com/vercel/next-learn)
 2. 🗣 Commented on [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
 3. 🗣 Commented on [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
 4. ❗️ Opened issue [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
