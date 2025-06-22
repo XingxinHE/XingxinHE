@@ -37,7 +37,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to store JSON to an ENV variable?](https://blog.xingxinhe.com/2025/05/how-to-store-json-to-an-env-variable/)
+- [Diagram Mutating Data in Next.js](https://blog.xingxinhe.com/2025/05/diagram-mutating-data-in-next-js/)
+- [Diagram Search and Pagination in Next.js](https://blog.xingxinhe.com/2025/05/diagram-search-and-pagination-in-next-js/)
+- [Do I interpret Mediocristan and Extremistan correctly?](https://blog.xingxinhe.com/2025/04/do-i-interpret-mediocristan-and-extremistan-correctly/)
+- [How to make better decision?](https://blog.xingxinhe.com/2025/04/how-to-make-better-decision/)
 <!-- BLOG-POST-LIST:END -->
 
 
