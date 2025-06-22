@@ -2,10 +2,9 @@
 
 ## A philomath of digital geometry with AEC background.
 
-- 🌱 I’m currently learning **C++** and [discrete differential geometry][DDG]
 - 📝 I regularly write articles on [my blog][my_blog].
 - 📫 You can reach me **xingxin.he@mail.polimi.it**
-- ⚡ My 2024 goal is to read 3 books on C++.
+- ⚡ My 2025 goal is to build, build, and build!
 
 
 
@@ -16,7 +15,6 @@
 
 [<img align="left" alt="about" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Xingxin He | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="haloiamhxx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Hex 16 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
@@ -39,26 +37,15 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Graceful Complexity of Nondeterministic Finite Automata](https://xingxinhe.com/my-path-to-code/the-graceful-complexity-of-nondeterministic-finite-automata)
-- [Programming Abstraction in C++ # 02. Functions and Libraries](https://xingxinhe.com/my-path-to-code/chapter-2-functions-and-libraries)
-- [Programming Abstraction in C++ # 01. Overview of C++](https://xingxinhe.com/my-path-to-code/chapter-1-overview-of-cpp)
-- [Essential C++ # 05. Object-Oriented Programming](https://xingxinhe.com/my-path-to-code/chapter-5-object-oriented-programming)
-- [Essential C++ # 04. Object-Based Programming](https://xingxinhe.com/my-path-to-code/chapter-4-object-based-programming)
-<!-- BLOG-POST-LIST:END -->
 
+<!-- BLOG-POST-LIST:END -->
 
 
 ---
 
-### 🧮Github Stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xingxinhe&show_icons=true&locale=en&bg_color=712121&text_color=ffffff&title_color=000000&icon_color=452424" alt="xingxinhe" />
-
-
-[website]: https://www.xingxin.me/about
-[instagram]: https://instagram.com/haloiamhxx
+[website]: https://www.xingxinhe.com
 [youtube]: https://www.youtube.com/channel/UCY0AvzIUR6XFJU9yJLOnq8Q
 [linkedin]: https://linkedin.com/in/xingxin-he
-[my_blog]: https://blog.xingxinhe.com/About
-[compas]: https://github.com/XingxinHE/compas/tree/trimesh_rhino
+[my_blog]: https://blog.xingxinhe.com
 [DDG]: https://github.com/XingxinHE/ComputationalGeometry
