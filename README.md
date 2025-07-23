@@ -23,8 +23,8 @@
 
 ### :walking: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1040](https://github.com/vercel/next-learn/pull/1040#issuecomment-2846906350) in [vercel/next-learn](https://github.com/vercel/next-learn)
-2. 🗣 Commented on [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
+1. 🗣 Commented on [#1](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER/issues/1#issuecomment-3100836432) in [XingxinHE/CGAL_IN_GRASSHOPPER](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER)
+2. 🗣 Commented on [#1](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER/issues/1#issuecomment-3095265601) in [XingxinHE/CGAL_IN_GRASSHOPPER](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER)
 3. 🗣 Commented on [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
 4. ❗️ Opened issue [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
 5. 💪 Opened PR [#91](https://github.com/alecjacobson/geometry-processing-introduction/pull/91) in [alecjacobson/geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction)
