@@ -23,10 +23,10 @@
 
 ### :walking: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER/issues/1) in [XingxinHE/CGAL_IN_GRASSHOPPER](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER)
-2. 🗣 Commented on [#1](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER/issues/1#issuecomment-3100836432) in [XingxinHE/CGAL_IN_GRASSHOPPER](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER)
-3. 🗣 Commented on [#1](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER/issues/1#issuecomment-3095265601) in [XingxinHE/CGAL_IN_GRASSHOPPER](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER)
-4. ❗️ Opened issue [#1](https://github.com/N3xed/logseq2obsdn/issues/1) in [N3xed/logseq2obsdn](https://github.com/N3xed/logseq2obsdn)
+1. 🗣 Commented on [#5331](https://github.com/google-gemini/gemini-cli/issues/5331#issuecomment-3141950831) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+2. 🔒 Closed issue [#1](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER/issues/1) in [XingxinHE/CGAL_IN_GRASSHOPPER](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER)
+3. 🗣 Commented on [#1](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER/issues/1#issuecomment-3100836432) in [XingxinHE/CGAL_IN_GRASSHOPPER](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER)
+4. 🗣 Commented on [#1](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER/issues/1#issuecomment-3095265601) in [XingxinHE/CGAL_IN_GRASSHOPPER](https://github.com/XingxinHE/CGAL_IN_GRASSHOPPER)
 5. 💪 Opened PR [#91](https://github.com/alecjacobson/geometry-processing-introduction/pull/91) in [alecjacobson/geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction)
     <!--END_SECTION:activity-->
 
