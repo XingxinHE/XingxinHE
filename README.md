@@ -54,11 +54,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HKUST PhD Chronicle, Week 1, Onboarding](https://blog.xingxinhe.com/2025/08/phd-chronicle-week-001-onboarding/)
 - [What is a package.json?](https://blog.xingxinhe.com/2025/07/what-is-a-package-json/)
 - [How to store JSON to an ENV variable?](https://blog.xingxinhe.com/2025/05/how-to-store-json-to-an-env-variable/)
 - [Diagram Mutating Data in Next.js](https://blog.xingxinhe.com/2025/05/diagram-mutating-data-in-next-js/)
 - [Diagram Search and Pagination in Next.js](https://blog.xingxinhe.com/2025/05/diagram-search-and-pagination-in-next-js/)
-- [Do I interpret Mediocristan and Extremistan correctly?](https://blog.xingxinhe.com/2025/04/do-i-interpret-mediocristan-and-extremistan-correctly/)
 <!-- BLOG-POST-LIST:END -->
 
 
