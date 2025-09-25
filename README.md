@@ -31,8 +31,8 @@ A philomath of digital geometry with AEC background.
 | ![][h-chore]    | ![][devops-npm] ![][devops-pnpm] ![][devops-bun] ![][chore-msvc] ![][chore-clang] ![][chore-gcc] ![][chore-uv] |
 | ![][h-devops]    | ![][devops-docker] ![][devops-github-actions] ![][devops-vercel] ![][devops-netlify] ![][devops-eslint] ![][devops-git]  |
 | ![][h-ide]       | ![][ide-vscode] ![][ide-visualstudio] ![][ide-qt] ![][ide-intellij]                                                                                                                   |
-| ![][h-os]        | ![][os-win11] ![][os-archlinux]                                                                                                                           |
-| ![][h-shell]     | ![][shell-windows-terminal] ![][shell-oh-my-posh] ![][shell-just]                                                                          |
+| ![][h-os]        | ![][os-win11] ![][os-ubuntu] ![][os-archlinux]                                                                                                                           |
+| ![][h-shell]     | ![][shell-windows-terminal] ![][shell-oh-my-posh] ![][shell-just]   ![][shell-alacritty]                                                                       |
 
 
 
@@ -153,10 +153,12 @@ A philomath of digital geometry with AEC background.
 
 [os-win11]: https://img.shields.io/badge/-Windows_11-000?style=flat-square&logoColor=white&logo=windows11
 [os-archlinux]: https://img.shields.io/badge/-Arch_Linux-000?style=flat-square&logoColor=white&logo=archlinux
+[os-ubuntu]: https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logoColor=white&logo=ubuntu
 
 [shell-windows-terminal]: https://img.shields.io/badge/-Windows_Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
 [shell-oh-my-posh]: https://img.shields.io/badge/-Oh_My_Posh-000?style=flat-square&logoColor=white&logo=ohmyposh
 [shell-just]: https://img.shields.io/badge/-Just-000?style=flat-square
+[shell-alacritty]: https://img.shields.io/badge/-Alacritty-000?style=flat-square&logoColor=white&logo=alacritty
 
 
 [social-youtube-link]: https://www.youtube.com/channel/UCY0AvzIUR6XFJU9yJLOnq8Q
