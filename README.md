@@ -31,7 +31,7 @@ A philomath of digital geometry with AEC background.
 | ![][h-chore]    | ![][devops-npm] ![][devops-pnpm] ![][devops-bun] ![][chore-msvc] ![][chore-clang] ![][chore-gcc] ![][chore-uv] |
 | ![][h-devops]    | ![][devops-docker] ![][devops-github-actions] ![][devops-vercel] ![][devops-netlify] ![][devops-eslint] ![][devops-git]  |
 | ![][h-ide]       | ![][ide-vscode] ![][ide-visualstudio] ![][ide-qt] ![][ide-intellij]                                                                                                                   |
-| ![][h-os]        | ![][os-win11] ![][os-ubuntu] ![][os-archlinux]                                                                                                                           |
+| ![][h-os]        | ![][os-win11] ![][os-ubuntu] ![][os-archlinux] ![][os-macos]                                                                                                                          |
 | ![][h-shell]     | ![][shell-windows-terminal] ![][shell-oh-my-posh] ![][shell-just]   ![][shell-alacritty]                                                                       |
 
 
@@ -152,6 +152,7 @@ A philomath of digital geometry with AEC background.
 [ide-intellij]: https://img.shields.io/badge/-IntelliJ_IDEA-000?style=flat-square&logoColor=white&logo=intellijidea
 
 [os-win11]: https://img.shields.io/badge/-Windows_11-000?style=flat-square&logoColor=white&logo=windows11
+[os-macos]: https://img.shields.io/badge/-macOS-000?style=flat-square&logoColor=white&logo=apple
 [os-archlinux]: https://img.shields.io/badge/-Arch_Linux-000?style=flat-square&logoColor=white&logo=archlinux
 [os-ubuntu]: https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logoColor=white&logo=ubuntu
 
