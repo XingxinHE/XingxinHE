@@ -54,11 +54,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HKUST PhD Chronicle, Week 6, Ragasa](https://blog.xingxinhe.com/2025/09/phd-chronicle-week-006-ragasa/)
 - [How to create Python binding for C++ libfranka via nanobind?](https://blog.xingxinhe.com/2025/09/how-to-create-python-binding-for-cpp-libfranka-with-nanobind/)
 - [The layer, image, and container in Docker](https://blog.xingxinhe.com/2025/09/layer-image-container-in-docker/)
 - [HKUST PhD Chronicle, Week 5, Experiment](https://blog.xingxinhe.com/2025/09/phd-chronicle-week-005-experiment/)
 - [HKUST PhD Chronicle, Week 4, Action](https://blog.xingxinhe.com/2025/09/phd-chronicle-week-004-action/)
-- [HKUST PhD Chronicle, Week 3, Different Robots](https://blog.xingxinhe.com/2025/08/phd-chronicle-week-003-different-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 
