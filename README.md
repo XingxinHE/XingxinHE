@@ -40,7 +40,7 @@ A philomath of digital geometry with AEC background.
 
 ### ⏱️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#204](https://github.com/frankarobotics/libfranka/pull/204) in [frankarobotics/libfranka](https://github.com/frankarobotics/libfranka)
+1. 💪 Opened PR [#204](undefined) in [frankarobotics/libfranka](https://github.com/frankarobotics/libfranka)
 2. 💪 Opened PR [#197](https://github.com/isaac-sim/IsaacSim/pull/197) in [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim)
 3. 🗣 Commented on [#3963](https://github.com/better-auth/better-auth/pull/3963#issuecomment-3212790936) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 4. 🗣 Commented on [#5331](https://github.com/google-gemini/gemini-cli/issues/5331#issuecomment-3141950831) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
