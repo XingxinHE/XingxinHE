@@ -54,11 +54,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Version Large Git Datasets with DVC and R2?](https://blog.xingxinhe.com/2025/10/how-to-version-large-git-datasets-with-dvc-and-r2/)
 - [HKUST PhD Chronicle, Week 9, Out of Control](https://blog.xingxinhe.com/2025/10/phd-chronicle-week-009-out-of-control/)
 - [HKUST PhD Chronicle, Week 8, A Thankless Task](https://blog.xingxinhe.com/2025/10/phd-chronicle-week-008-thankless-task/)
 - [A Guide to VS Code, MQTT, and SSH on HPC Clusters](https://blog.xingxinhe.com/2025/10/vscode-mqtt-ssh-hpc/)
 - [HKUST PhD Chronicle, Week 7, MQTT in HPC](https://blog.xingxinhe.com/2025/10/phd-chronicle-week-007-mqtt-in-hpc/)
-- [HKUST PhD Chronicle, Week 6, Ragasa](https://blog.xingxinhe.com/2025/09/phd-chronicle-week-006-ragasa/)
 <!-- BLOG-POST-LIST:END -->
 
 
