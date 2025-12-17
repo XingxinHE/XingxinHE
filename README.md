@@ -54,11 +54,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HKUST PhD Chronicle, Week 17, My First Slurm Job](https://blog.xingxinhe.com/2025/12/phd-chronicle-week-017-my-first-slurm-job/)
+- [null](https://blog.xingxinhe.com/2025/12/i-miss-a-chance-to-meet-with-mr-bigshot/)
+- [HKUST PhD Chronicle, Week 16, Back to Deep Learning](https://blog.xingxinhe.com/2025/12/phd-chronicle-week-016/)
 - [HKUST PhD Chronicle, Week 15, Thanks Giving](https://blog.xingxinhe.com/2025/11/phd-chronicle-week-015/)
 - [HKUST PhD Chronicle, Week 14, WebGPU](https://blog.xingxinhe.com/2025/11/phd-chronicle-week-014-webgpu/)
-- [HKUST PhD Chronicle, Week 13, Taming the Jerk](https://blog.xingxinhe.com/2025/11/phd-chronicle-week-013-taming-the-jerk/)
-- [HKUST PhD Chronicle, Week 12, Teaching Assistant](https://blog.xingxinhe.com/2025/11/phd-chronicle-week-012-teaching-assistant/)
-- [HKUST PhD Chronicle, Week 11, Trajectory](https://blog.xingxinhe.com/2025/10/phd-chronicle-week-011-trajectory/)
 <!-- BLOG-POST-LIST:END -->
 
 
