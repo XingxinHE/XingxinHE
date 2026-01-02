@@ -40,10 +40,10 @@ A philomath of digital geometry with AEC background.
 
 ### ⏱️ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3626](undefined) in [moveit/moveit2](https://github.com/moveit/moveit2)
-2. 💪 Opened PR [#624](undefined) in [devcontainers/devcontainers.github.io](https://github.com/devcontainers/devcontainers.github.io)
-3. ❌ Merged PR [#2](undefined) in [XingxinHE/devcontainer-features](https://github.com/XingxinHE/devcontainer-features)
-4. 💪 Opened PR [#2](undefined) in [XingxinHE/devcontainer-features](https://github.com/XingxinHE/devcontainer-features)
+1. 🎉 Merged PR [#3626](https://github.com/moveit/moveit2/pull/3626) in [moveit/moveit2](https://github.com/moveit/moveit2)
+2. 💪 Opened PR [#624](https://github.com/devcontainers/devcontainers.github.io/pull/624) in [devcontainers/devcontainers.github.io](https://github.com/devcontainers/devcontainers.github.io)
+3. 🎉 Merged PR [#2](https://github.com/XingxinHE/devcontainer-features/pull/2) in [XingxinHE/devcontainer-features](https://github.com/XingxinHE/devcontainer-features)
+4. 💪 Opened PR [#2](https://github.com/XingxinHE/devcontainer-features/pull/2) in [XingxinHE/devcontainer-features](https://github.com/XingxinHE/devcontainer-features)
 5. 🗣 Commented on [#3626](https://github.com/moveit/moveit2/pull/3626#issuecomment-3621517380) in [moveit/moveit2](https://github.com/moveit/moveit2)
     <!--END_SECTION:activity-->
 
