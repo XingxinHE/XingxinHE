@@ -54,11 +54,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HKUST PhD Chronicle, Week 20, Taming the Transformer](https://blog.xingxinhe.com/2026/01/phd-chronicle-week-020-taming-the-transformer/)
 - [How to Train and Use a Neural Network? The TL;DR](https://blog.xingxinhe.com/2025/12/how-to-train-and-use-a-neural-network-tldr/)
-- [HKUST PhD Chronicle, Week 19, One Object Down, Many to Go](https://blog.xingxinhe.com/2025/12/phd-chronicle-week-19/)
+- [HKUST PhD Chronicle, Week 19, One Object Down, Many to Go](https://blog.xingxinhe.com/2025/12/phd-chronicle-week-19-one-object-down-many-to-go/)
 - [What is Ball Query and Multi-Scale Grouping?](https://blog.xingxinhe.com/2025/12/what-is-ball-query-and-multi-scale-grouping/)
 - [What is Farthest Point Sampling &lpar;FPS&rpar;?](https://blog.xingxinhe.com/2025/12/what-is-farthest-point-sampling/)
-- [HKUST PhD Chronicle, Week 18, Debugging PointNet++](https://blog.xingxinhe.com/2025/12/phd-chronicle-week-018-debugging-pointnet/)
 <!-- BLOG-POST-LIST:END -->
 
 
