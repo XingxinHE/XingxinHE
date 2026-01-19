@@ -54,11 +54,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Franka Robot Control Parameters](https://blog.xingxinhe.com/2026/01/understanding-franka-robot-control-parameters/)
+- [HKUST PhD Chronicle, Week 22, From MuJoCo Stability to VLA](https://blog.xingxinhe.com/2026/01/phd-chronicle-week-22-from-mujoco-stability-to-vla/)
 - [HKUST PhD Chronicle, Week 21, Extrinsic Dexterity](https://blog.xingxinhe.com/2026/01/phd-chronicle-week-021-extrinsic-dexterity/)
 - [HKUST PhD Chronicle, Week 20, Taming the Transformer](https://blog.xingxinhe.com/2026/01/phd-chronicle-week-020-taming-the-transformer/)
 - [How to Train and Use a Neural Network? The TL;DR](https://blog.xingxinhe.com/2025/12/how-to-train-and-use-a-neural-network-tldr/)
-- [HKUST PhD Chronicle, Week 19, One Object Down, Many to Go](https://blog.xingxinhe.com/2025/12/phd-chronicle-week-19-one-object-down-many-to-go/)
-- [What is Ball Query and Multi-Scale Grouping?](https://blog.xingxinhe.com/2025/12/what-is-ball-query-and-multi-scale-grouping/)
 <!-- BLOG-POST-LIST:END -->
 
 
