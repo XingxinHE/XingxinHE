@@ -133,8 +133,8 @@ A philomath of digital geometry with AEC background.
 [modeling-dynamo]: https://img.shields.io/badge/-Dynamo-000?style=flat-square&logoColor=white&logo=dynamo
 
 [robotics-ros2]: https://img.shields.io/badge/-ROS2-000?style=flat-square&logoColor=white&logo=ros
-[robotics-franka]: https://img.shields.io/badge/-Franka_Emika-000?style=flat-square
-[robotics-ur]: https://img.shields.io/badge/-Universal_Robots-000?style=flat-square
+[robotics-franka]: https://img.shields.io/badge/-Franka-000?style=flat-square
+[robotics-ur]: https://img.shields.io/badge/-UR-000?style=flat-square
 [robotics-kuka]: https://img.shields.io/badge/-KUKA-000?style=flat-square
 [robotics-mujoco]: https://img.shields.io/badge/-MuJoCo-000?style=flat-square
 [robotics-moveit]: https://img.shields.io/badge/-MoveIt-000?style=flat-square
