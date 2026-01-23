@@ -139,7 +139,7 @@ A philomath of digital geometry with AEC background.
 [robotics-mujoco]: https://img.shields.io/badge/-MuJoCo-000?style=flat-square
 [robotics-moveit]: https://img.shields.io/badge/-MoveIt-000?style=flat-square
 [robotics-gazebo]: https://img.shields.io/badge/-Gazebo-000?style=flat-square
-[robotics-isaacsim]: https://img.shields.io/badge/-Isaac_Sim-000?style=flat-square&logoColor=white&logo=nvidia
+[robotics-isaacsim]: https://img.shields.io/badge/-Isaac-000?style=flat-square&logoColor=white&logo=nvidia
 
 [languages-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white
 [languages-cpp]: https://img.shields.io/badge/-C++-000?style=flat-square&logoColor=white&logo=cplusplus
