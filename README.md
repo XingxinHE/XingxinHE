@@ -25,7 +25,7 @@ A philomath of digital geometry with AEC background.
 | ![][h-design]  | ![][design-adobe] ![][design-figma]                                                                                                                       |
 | :------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][h-modeling]  | ![][modeling-blender] ![][modeling-rhino] ![][modeling-revit] ![][modeling-sketchup] ![][modeling-grasshopper] ![][modeling-autocad] ![][modeling-3dsmax] ![][modeling-dynamo] |
-| ![][h-robotics]  | ![][robotics-ros] ![][robotics-ros2] ![][robotics-opencv] ![][robotics-pcl] ![][robotics-moveit] ![][robotics-gazebo] ![][robotics-isaacsim] ![][robotics-arduino] ![][robotics-raspberrypi] |
+| ![][h-robotics]  | ![][robotics-ros2] ![][robotics-franka] ![][robotics-ur] ![][robotics-kuka] ![][robotics-mujoco] ![][robotics-moveit] ![][robotics-gazebo] ![][robotics-isaacsim] |
 | ![][h-languages] | ![][h-frequent] ![][languages-c] ![][languages-cpp] ![][languages-csharp] ![][languages-cuda] ![][languages-typescript] ![][languages-javascript] ![][languages-python] ![][h-divider] ![][h-fun] ![][languages-ocaml] ![][languages-lean] ![][languages-julia] ![][languages-wolframlanguage]  |
 | ![][h-frontend]  | ![][frontend-react] ![][frontend-nextjs] ![][frontend-astro] ![][frontend-zustand] ![][frontend-better-auth] ![][frontend-shadcnui] ![][frontend-tailwind] |
 | ![][h-backend]   | ![][backend-nodejs] ![][backend-graphql] ![][backend-postgres] ![][backend-drizzle] ![][backend-apollographql] ![][backend-supabase] ![][backend-upstash] |
@@ -132,15 +132,14 @@ A philomath of digital geometry with AEC background.
 [modeling-3dsmax]: https://img.shields.io/badge/-3ds_Max-000?style=flat-square&logoColor=white&logo=3dsmax
 [modeling-dynamo]: https://img.shields.io/badge/-Dynamo-000?style=flat-square&logoColor=white&logo=dynamo
 
-[robotics-ros]: https://img.shields.io/badge/-ROS-000?style=flat-square&logoColor=white&logo=ros
 [robotics-ros2]: https://img.shields.io/badge/-ROS2-000?style=flat-square&logoColor=white&logo=ros
-[robotics-opencv]: https://img.shields.io/badge/-OpenCV-000?style=flat-square&logoColor=white&logo=opencv
-[robotics-pcl]: https://img.shields.io/badge/-PCL-000?style=flat-square
+[robotics-franka]: https://img.shields.io/badge/-Franka_Emika-000?style=flat-square
+[robotics-ur]: https://img.shields.io/badge/-Universal_Robots-000?style=flat-square
+[robotics-kuka]: https://img.shields.io/badge/-KUKA-000?style=flat-square
+[robotics-mujoco]: https://img.shields.io/badge/-MuJoCo-000?style=flat-square
 [robotics-moveit]: https://img.shields.io/badge/-MoveIt-000?style=flat-square
 [robotics-gazebo]: https://img.shields.io/badge/-Gazebo-000?style=flat-square
 [robotics-isaacsim]: https://img.shields.io/badge/-Isaac_Sim-000?style=flat-square&logoColor=white&logo=nvidia
-[robotics-arduino]: https://img.shields.io/badge/-Arduino-000?style=flat-square&logoColor=white&logo=arduino
-[robotics-raspberrypi]: https://img.shields.io/badge/-Raspberry_Pi-000?style=flat-square&logoColor=white&logo=raspberrypi
 
 [languages-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white
 [languages-cpp]: https://img.shields.io/badge/-C++-000?style=flat-square&logoColor=white&logo=cplusplus
