@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Naive Behavioral Cloning Doesn&#39;t Work?](https://blog.xingxinhe.com/2026/02/why-naive-behavioral-cloning-does-not-work/)
+- [HKUST PhD Chronicle, Week 25, New Semester in 2026](https://blog.xingxinhe.com/2026/02/phd-chronicle-week-025-new-semester-in-2026/)
 - [Why the Gymnasium API Looks the Way It Does?](https://blog.xingxinhe.com/2026/02/why-the-gymnasium-api-looks-the-way-it-does/)
 - [HKUST PhD Chronicle, Week 24, Into the Robot Learning Verse](https://blog.xingxinhe.com/2026/01/phd-chronicle-week-024-into-the-robot-learning-verse/)
 - [HKUST PhD Chronicle, Week 23, Isaac ROS and DDP](https://blog.xingxinhe.com/2026/01/phd-chronicle-week-023-isaac-ros-and-ddp/)
-- [Understanding Franka Robot Control Parameters](https://blog.xingxinhe.com/2026/01/understanding-franka-robot-control-parameters/)
-- [HKUST PhD Chronicle, Week 22, From MuJoCo Stability to VLA](https://blog.xingxinhe.com/2026/01/phd-chronicle-week-022-from-mujoco-stability-to-vla/)
 <!-- BLOG-POST-LIST:END -->
 
 
