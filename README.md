@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Naive Behavioral Cloning Doesn&#39;t Work?](https://blog.xingxinhe.com/2026/02/why-naive-behavioral-cloning-does-not-work/)
-- [HKUST PhD Chronicle, Week 25, New Semester in 2026](https://blog.xingxinhe.com/2026/02/phd-chronicle-week-025-new-semester-in-2026/)
-- [Why the Gymnasium API Looks the Way It Does?](https://blog.xingxinhe.com/2026/02/why-the-gymnasium-api-looks-the-way-it-does/)
-- [HKUST PhD Chronicle, Week 24, Into the Robot Learning Verse](https://blog.xingxinhe.com/2026/01/phd-chronicle-week-024-into-the-robot-learning-verse/)
-- [HKUST PhD Chronicle, Week 23, Isaac ROS and DDP](https://blog.xingxinhe.com/2026/01/phd-chronicle-week-023-isaac-ros-and-ddp/)
+- [Understanding Action Chunking with Flow Matching](https://blog.xingxinhe.com/2026/02/understanding-action-chunking-with-flow-matching/)
+- [A Beginner&#39;s Guide to Flow Matching](https://blog.xingxinhe.com/2026/02/a-beginner-guide-to-flow-matching/)
+- [HKUST PhD Chronicle, Week 27, Flow Matching and Python Trick](https://blog.xingxinhe.com/2026/02/phd-chronicle-week-027-flow-matching-and-python-trick/)
+- [How to Set Up Autograding in GitHub Classroom? &lpar;with Canvas&rpar;](https://blog.xingxinhe.com/2026/02/how-to-set-up-autograding-in-github-classroom-with-canvas/)
+- [HKUST PhD Chronicle, Week 26, Course Infra and Autograding](https://blog.xingxinhe.com/2026/02/phd-chronicle-week-026-course-infra-and-autograding/)
 <!-- BLOG-POST-LIST:END -->
 
 
