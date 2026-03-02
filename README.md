@@ -41,10 +41,10 @@ A philomath of digital geometry with AEC background.
 
 ### ⏱️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/utiasDSL/crisp_gym/pull/47) in [utiasDSL/crisp_gym](https://github.com/utiasDSL/crisp_gym)
-2. 💪 Opened PR [#47](https://github.com/utiasDSL/crisp_gym/pull/47) in [utiasDSL/crisp_gym](https://github.com/utiasDSL/crisp_gym)
-3. ❗ Opened issue [#1384](https://github.com/haosulab/ManiSkill/issues/1384) in [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill)
-4. 💪 Opened PR [#2](https://github.com/XingxinHE/devcontainer-features/pull/2) in [XingxinHE/devcontainer-features](https://github.com/XingxinHE/devcontainer-features)
+1. 🗣 Commented on [#3963](https://github.com/better-auth/better-auth/pull/3963#issuecomment-3973219409) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 🎉 Merged PR [#47](https://github.com/utiasDSL/crisp_gym/pull/47) in [utiasDSL/crisp_gym](https://github.com/utiasDSL/crisp_gym)
+3. 💪 Opened PR [#47](https://github.com/utiasDSL/crisp_gym/pull/47) in [utiasDSL/crisp_gym](https://github.com/utiasDSL/crisp_gym)
+4. ❗ Opened issue [#1384](https://github.com/haosulab/ManiSkill/issues/1384) in [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill)
 5. 🗣 Commented on [#3626](https://github.com/moveit/moveit2/pull/3626#issuecomment-3621517380) in [moveit/moveit2](https://github.com/moveit/moveit2)
     <!--END_SECTION:activity-->
 
