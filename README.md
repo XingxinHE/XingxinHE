@@ -56,10 +56,10 @@ A philomath of digital geometry with AEC background.
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Derive the Policy Gradient with Monte Carlo Sampling?](https://blog.xingxinhe.com/2026/02/how-to-derive-the-policy-gradient-with-monte-carlo-sampling/)
+- [HKUST PhD Chronicle, Week 28, Back From Holiday](https://blog.xingxinhe.com/2026/02/phd-chronicle-week-028-back-from-holiday/)
 - [Understanding Action Chunking with Flow Matching](https://blog.xingxinhe.com/2026/02/understanding-action-chunking-with-flow-matching/)
 - [A Beginner&#39;s Guide to Flow Matching](https://blog.xingxinhe.com/2026/02/a-beginner-guide-to-flow-matching/)
 - [HKUST PhD Chronicle, Week 27, Flow Matching and Python Trick](https://blog.xingxinhe.com/2026/02/phd-chronicle-week-027-flow-matching-and-python-trick/)
-- [How to Set Up Autograding in GitHub Classroom? &lpar;with Canvas&rpar;](https://blog.xingxinhe.com/2026/02/how-to-set-up-autograding-in-github-classroom-with-canvas/)
 <!-- BLOG-POST-LIST:END -->
 
 
