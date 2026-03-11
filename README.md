@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install ROS2 Without Docker or sudo apt in 2026?](https://blog.xingxinhe.com/2026/03/how-to-install-ros2-without-docker-or-sudo-apt-in-2026/)
+- [HKUST PhD Chronicle, Week 29, RoboCasa365](https://blog.xingxinhe.com/2026/03/phd-chronicle-week-029-robocasa365/)
 - [How to Derive the Policy Gradient with Monte Carlo Sampling?](https://blog.xingxinhe.com/2026/02/how-to-derive-the-policy-gradient-with-monte-carlo-sampling/)
 - [HKUST PhD Chronicle, Week 28, Back From Holiday](https://blog.xingxinhe.com/2026/02/phd-chronicle-week-028-back-from-holiday/)
 - [Understanding Action Chunking with Flow Matching](https://blog.xingxinhe.com/2026/02/understanding-action-chunking-with-flow-matching/)
-- [A Beginner&#39;s Guide to Flow Matching](https://blog.xingxinhe.com/2026/02/a-beginner-guide-to-flow-matching/)
-- [HKUST PhD Chronicle, Week 27, Flow Matching and Python Trick](https://blog.xingxinhe.com/2026/02/phd-chronicle-week-027-flow-matching-and-python-trick/)
 <!-- BLOG-POST-LIST:END -->
 
 
