@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding PD Controllers in Robotics and Robot Learning](https://blog.xingxinhe.com/2026/03/understanding-pd-controllers-in-robotics-and-robot-learning/)
+- [Multi-Machine ROS2 for Robot Learning: A Guide to RMW](https://blog.xingxinhe.com/2026/03/multi-machine-ros2-for-robot-learning-a-guide-to-rmw/)
 - [How to Install ROS2 Without Docker or sudo apt in 2026?](https://blog.xingxinhe.com/2026/03/how-to-install-ros2-without-docker-or-sudo-apt-in-2026/)
 - [HKUST PhD Chronicle, Week 29, RoboCasa365](https://blog.xingxinhe.com/2026/03/phd-chronicle-week-029-robocasa365/)
 - [How to Derive the Policy Gradient with Monte Carlo Sampling?](https://blog.xingxinhe.com/2026/02/how-to-derive-the-policy-gradient-with-monte-carlo-sampling/)
-- [HKUST PhD Chronicle, Week 28, Back From Holiday](https://blog.xingxinhe.com/2026/02/phd-chronicle-week-028-back-from-holiday/)
-- [Understanding Action Chunking with Flow Matching](https://blog.xingxinhe.com/2026/02/understanding-action-chunking-with-flow-matching/)
 <!-- BLOG-POST-LIST:END -->
 
 
