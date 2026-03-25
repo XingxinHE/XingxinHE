@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable Zero-Gravity Teleoperating a Franka Robot?](https://blog.xingxinhe.com/2026/03/how-to-enable-zero-gravity-teleoperating-a-franka-robot/)
+- [HKUST PhD Chronicle, Week 31, First Imitation Learning Demo](https://blog.xingxinhe.com/2026/03/phd-chronicle-week-031-first-imitation-learning-demo/)
 - [Understanding PD Controllers in Robotics and Robot Learning](https://blog.xingxinhe.com/2026/03/understanding-pd-controllers-in-robotics-and-robot-learning/)
+- [HKUST PhD Chronicle, Week 30, Back to Personal Blogging](https://blog.xingxinhe.com/2026/03/phd-chronicle-week-030-back-to-personal-blogging/)
 - [Multi-Machine ROS2 for Robot Learning: A Guide to RMW](https://blog.xingxinhe.com/2026/03/multi-machine-ros2-for-robot-learning-a-guide-to-rmw/)
-- [How to Install ROS2 Without Docker or sudo apt in 2026?](https://blog.xingxinhe.com/2026/03/how-to-install-ros2-without-docker-or-sudo-apt-in-2026/)
-- [HKUST PhD Chronicle, Week 29, RoboCasa365](https://blog.xingxinhe.com/2026/03/phd-chronicle-week-029-robocasa365/)
-- [How to Derive the Policy Gradient with Monte Carlo Sampling?](https://blog.xingxinhe.com/2026/02/how-to-derive-the-policy-gradient-with-monte-carlo-sampling/)
 <!-- BLOG-POST-LIST:END -->
 
 
