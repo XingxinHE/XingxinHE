@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deriving Euler-Lagrange Equation of a Simple Double Pendulum](https://blog.xingxinhe.com/2026/04/deriving-euler-lagrange-equation-of-a-simple-double-pendulum/)
+- [HKUST PhD Chronicle, Week 33, Grasp in Reality &amp; Simulation](https://blog.xingxinhe.com/2026/04/phd-chronicle-week-033-grasp-in-reality-and-simulation/)
 - [The &quot;It Just Works&quot; Hardware and OS Stack for Franka Robot](https://blog.xingxinhe.com/2026/03/the-it-just-works-hardware-and-os-stack-for-franka-robot/)
 - [HKUST PhD Chronicle, Week 32, Franka Teleop and Co-Training](https://blog.xingxinhe.com/2026/03/phd-chronicle-week-032-franka-teleop-and-co-training/)
 - [How to Enable Zero-Gravity Teleoperating a Franka Robot?](https://blog.xingxinhe.com/2026/03/how-to-enable-zero-gravity-teleoperating-a-franka-robot/)
-- [HKUST PhD Chronicle, Week 31, First Imitation Learning Demo](https://blog.xingxinhe.com/2026/03/phd-chronicle-week-031-first-imitation-learning-demo/)
-- [Understanding PD Controllers in Robotics and Robot Learning](https://blog.xingxinhe.com/2026/03/understanding-pd-controllers-in-robotics-and-robot-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 
