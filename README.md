@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HKUST PhD Chronicle, Week 38, From TA to Robot Vision](https://blog.xingxinhe.com/2026/05/phd-chronicle-week-038-from-ta-to-robot-vision/)
 - [HKUST PhD Chronicle, Week 37, Grasp API and Bimanual Setup](https://blog.xingxinhe.com/2026/05/phd-chronicle-week-037-grasp-api-and-bimanual-setup/)
 - [HKUST PhD Chronicle, Week 36, Pick-and-Place Tic-Tac-Toe](https://blog.xingxinhe.com/2026/04/phd-chronicle-week-036-pick-and-place-tic-tac-toe/)
 - [HKUST PhD Chronicle, Week 35, TA Duty and Pixi Calibration](https://blog.xingxinhe.com/2026/04/phd-chronicle-week-035-ta-duty-and-pixi-calibration/)
 - [Unpacking &quot;Unfolding Robotics&quot;: The Reading Notes](https://blog.xingxinhe.com/2026/04/unpacking-unfolding-robotics-the-reading-notes/)
-- [HKUST PhD Chronicle, Week 34, The Recharge Sprint](https://blog.xingxinhe.com/2026/04/phd-chronicle-week-034-the-recharge-sprint/)
 <!-- BLOG-POST-LIST:END -->
 
 
