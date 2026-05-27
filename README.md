@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HKUST PhD Chronicle, Week 40, POMDP Trap in Robot Learning](https://blog.xingxinhe.com/2026/05/phd-chronicle-week-040-pomdp-trap-in-robot-learning/)
 - [A Visual Guide to Hand-Eye Camera Calibration in Robotics](https://blog.xingxinhe.com/2026/05/a-visual-guide-to-hand-eye-camera-calibration-in-robotics/)
 - [HKUST PhD Chronicle, Week 39, GR00T, Data and Exploration](https://blog.xingxinhe.com/2026/05/phd-chronicle-week-039-gr00t-data-and-exploration/)
 - [HKUST PhD Chronicle, Week 38, From TA to Robot Vision](https://blog.xingxinhe.com/2026/05/phd-chronicle-week-038-from-ta-to-robot-vision/)
 - [HKUST PhD Chronicle, Week 37, Grasp API and Bimanual Setup](https://blog.xingxinhe.com/2026/05/phd-chronicle-week-037-grasp-api-and-bimanual-setup/)
-- [HKUST PhD Chronicle, Week 36, Pick-and-Place Tic-Tac-Toe](https://blog.xingxinhe.com/2026/04/phd-chronicle-week-036-pick-and-place-tic-tac-toe/)
 <!-- BLOG-POST-LIST:END -->
 
 
