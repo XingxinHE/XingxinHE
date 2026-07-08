@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HKUST PhD Chronicle, Week 46, LeRobot Data and Franka Safety](https://blog.xingxinhe.com/2026/07/phd-chronicle-week-046-lerobot-data-and-franka-safety/)
 - [How to Compute a Value Function? Policy Evaluation](https://blog.xingxinhe.com/2026/06/how-to-compute-a-value-function-policy-evaluation/)
 - [HKUST PhD Chronicle, Week 45, Offline GCRL and Windsurfing](https://blog.xingxinhe.com/2026/06/phd-chronicle-week-045-offline-gcrl-and-windsurfing/)
 - [Value Function: From Gridworld to Bellman Equation](https://blog.xingxinhe.com/2026/06/value-function-from-gridworld-to-bellman-equation/)
 - [HKUST PhD Chronicle, Week 44, Franka GELLO and Offline GCRL](https://blog.xingxinhe.com/2026/06/phd-chronicle-week-044-franka-gello-and-offline-gcrl/)
-- [HKUST PhD Chronicle, Week 43, Sim2Real Magic and AI Reviewer](https://blog.xingxinhe.com/2026/06/phd-chronicle-week-043-sim2real-magic-and-ai-reviewer/)
 <!-- BLOG-POST-LIST:END -->
 
 
