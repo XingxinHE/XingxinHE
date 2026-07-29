@@ -56,10 +56,10 @@ A philomath of digital geometry with AEC background.
 
 <!-- BLOG-POST-LIST:START -->
 - [A Visual Guide to Real-Time Action Chunking in Robotics](https://blog.xingxinhe.com/2026/07/a-visual-guide-to-real-time-action-chunking-in-robotics/)
+- [HKUST PhD Chronicle, Week 49, One Variable at a Time](https://blog.xingxinhe.com/2026/07/phd-chronicle-week-049-one-variable-at-a-time/)
 - [HKUST PhD Chronicle, Week 48, Drowning in Experiments](https://blog.xingxinhe.com/2026/07/phd-chronicle-week-048-drowning-in-experiments/)
-- [HKUST PhD Chronicle, Week 47, Normalization &amp; RL Milestones](https://blog.xingxinhe.com/2026/07/phd-chronicle-week-047-normalization-rl-milestones/)
-- [Dataset Normalization Statistics in OpenPI and LeRobot](https://blog.xingxinhe.com/2026/07/dataset-normalization-statistics-in-openpi-and-lerobot/)
-- [HKUST PhD Chronicle, Week 46, LeRobot Data and Franka Safety](https://blog.xingxinhe.com/2026/07/phd-chronicle-week-046-lerobot-data-and-franka-safety/)
+- [A Cheat Sheet for Robotic Gripper State and Action Spaces](https://blog.xingxinhe.com/2026/07/a-cheat-sheet-for-robotic-gripper-state-and-action-spaces/)
+- [Action Chunking in VLA: A Cheat Sheet for H and K Horizons](https://blog.xingxinhe.com/2026/07/action-chunking-in-vla-a-cheat-sheet-for-h-and-k-horizons/)
 <!-- BLOG-POST-LIST:END -->
 
 
