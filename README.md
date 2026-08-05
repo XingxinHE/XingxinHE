@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HKUST PhD Chronicle, Week 50, 6D Rotation Representations](https://blog.xingxinhe.com/2026/08/phd-chronicle-week-050-6d-rotation-representations/)
 - [A Visual Guide to Real-Time Action Chunking in Robotics](https://blog.xingxinhe.com/2026/07/a-visual-guide-to-real-time-action-chunking-in-robotics/)
 - [HKUST PhD Chronicle, Week 49, One Variable at a Time](https://blog.xingxinhe.com/2026/07/phd-chronicle-week-049-one-variable-at-a-time/)
 - [HKUST PhD Chronicle, Week 48, Drowning in Experiments](https://blog.xingxinhe.com/2026/07/phd-chronicle-week-048-drowning-in-experiments/)
 - [A Cheat Sheet for Robotic Gripper State and Action Spaces](https://blog.xingxinhe.com/2026/07/a-cheat-sheet-for-robotic-gripper-state-and-action-spaces/)
-- [Action Chunking in VLA: A Cheat Sheet for H and K Horizons](https://blog.xingxinhe.com/2026/07/action-chunking-in-vla-a-cheat-sheet-for-h-and-k-horizons/)
 <!-- BLOG-POST-LIST:END -->
 
 
