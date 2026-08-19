@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Derive the Exponential Map for Rotation via Simple Physics](https://blog.xingxinhe.com/2026/08/derive-the-exponential-map-for-rotation-via-simple-physics/)
+- [HKUST PhD Chronicle, Week 52, Your Shield, Their Excuse](https://blog.xingxinhe.com/2026/08/phd-chronicle-week-052-your-shield-their-excuse/)
 - [HKUST PhD Chronicle, Week 51, ACT vs. Diffusion Policy](https://blog.xingxinhe.com/2026/08/phd-chronicle-week-051-act-vs-diffusion-policy/)
 - [HKUST PhD Chronicle, Week 50, 6D Rotation Representations](https://blog.xingxinhe.com/2026/08/phd-chronicle-week-050-6d-rotation-representations/)
 - [A Visual Guide to Real-Time Action Chunking in Robotics](https://blog.xingxinhe.com/2026/07/a-visual-guide-to-real-time-action-chunking-in-robotics/)
-- [HKUST PhD Chronicle, Week 49, One Variable at a Time](https://blog.xingxinhe.com/2026/07/phd-chronicle-week-049-one-variable-at-a-time/)
-- [HKUST PhD Chronicle, Week 48, Drowning in Experiments](https://blog.xingxinhe.com/2026/07/phd-chronicle-week-048-drowning-in-experiments/)
 <!-- BLOG-POST-LIST:END -->
 
 
