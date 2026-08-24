@@ -41,8 +41,8 @@ A philomath of digital geometry with AEC background.
 
 ### ⏱️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/XingxinHE/obsidian-last-week-changes/releases/tag/1.0.0) in [XingxinHE/obsidian-last-week-changes](https://github.com/XingxinHE/obsidian-last-week-changes)
-2. 🔒 Closed issue [#43](https://github.com/utiasDSL/crisp_controllers/issues/43) in [utiasDSL/crisp_controllers](https://github.com/utiasDSL/crisp_controllers)
+1. 🗣 Commented on [#757](https://github.com/NVIDIA/Isaac-GR00T/pull/757#issuecomment-5366691576) in [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T)
+2. 💪 Opened PR [#757](https://github.com/NVIDIA/Isaac-GR00T/pull/757) in [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T)
 3. 🗣 Commented on [#43](https://github.com/utiasDSL/crisp_controllers/issues/43#issuecomment-4002725344) in [utiasDSL/crisp_controllers](https://github.com/utiasDSL/crisp_controllers)
 4. ❗ Opened issue [#43](https://github.com/utiasDSL/crisp_controllers/issues/43) in [utiasDSL/crisp_controllers](https://github.com/utiasDSL/crisp_controllers)
 5. 🗣 Commented on [#3963](https://github.com/better-auth/better-auth/pull/3963#issuecomment-3973219409) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
