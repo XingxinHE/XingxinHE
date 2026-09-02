@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HKUST PhD Chronicle, Week 54, DROID, Notation and Stress](https://blog.xingxinhe.com/2026/08/phd-chronicle-week-054-droid-notation-and-stress/)
 - [HKUST PhD Chronicle, Week 53, Aligning with DROID](https://blog.xingxinhe.com/2026/08/phd-chronicle-week-053-aligning-with-droid/)
 - [Derive the Exponential Map for Rotation via Simple Physics](https://blog.xingxinhe.com/2026/08/derive-the-exponential-map-for-rotation-via-simple-physics/)
 - [HKUST PhD Chronicle, Week 52, Your Shield, Their Excuse](https://blog.xingxinhe.com/2026/08/phd-chronicle-week-052-your-shield-their-excuse/)
 - [HKUST PhD Chronicle, Week 51, ACT vs. Diffusion Policy](https://blog.xingxinhe.com/2026/08/phd-chronicle-week-051-act-vs-diffusion-policy/)
-- [HKUST PhD Chronicle, Week 50, 6D Rotation Representations](https://blog.xingxinhe.com/2026/08/phd-chronicle-week-050-6d-rotation-representations/)
 <!-- BLOG-POST-LIST:END -->
 
 
