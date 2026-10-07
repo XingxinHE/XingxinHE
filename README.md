@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Master DROID Action Spaces to Use Pre-Trained Policies](https://blog.xingxinhe.com/2026/10/master-droid-action-spaces-to-use-pre-trained-policies/)
+- [HKUST PhD Chronicle, Week 59, My First Paper on arXiv!](https://blog.xingxinhe.com/2026/10/phd-chronicle-week-059-my-first-paper-on-arxiv/)
 - [HKUST PhD Chronicle, Week 58, Mid-Autumn by the Beach](https://blog.xingxinhe.com/2026/09/phd-chronicle-week-058-mid-autumn-by-the-beach/)
 - [HKUST PhD Chronicle, Week 57, My First Paper Submission!](https://blog.xingxinhe.com/2026/09/phd-chronicle-week-057-my-first-paper-submission/)
 - [HKUST PhD Chronicle, Week 56, Deadline is 1.5 Days Away](https://blog.xingxinhe.com/2026/09/phd-chronicle-week-056-deadline-is-1p5-days-away/)
-- [HKUST PhD Chronicle, Week 55, One Week Left](https://blog.xingxinhe.com/2026/09/phd-chronicle-week-055-one-week-left/)
-- [HKUST PhD Chronicle, Week 54, DROID, Notation and Stress](https://blog.xingxinhe.com/2026/08/phd-chronicle-week-054-droid-notation-and-stress/)
 <!-- BLOG-POST-LIST:END -->
 
 
