@@ -41,7 +41,7 @@ A philomath of digital geometry with AEC background.
 
 ### ⏱️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#757](https://github.com/NVIDIA/Isaac-GR00T/pull/757#issuecomment-5366691576) in [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T)
+1. ❗ Opened issue [#117](https://github.com/algorithmsbooks/decisionmaking/issues/117) in [algorithmsbooks/decisionmaking](https://github.com/algorithmsbooks/decisionmaking)
 2. 💪 Opened PR [#757](https://github.com/NVIDIA/Isaac-GR00T/pull/757) in [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T)
 3. 🗣 Commented on [#43](https://github.com/utiasDSL/crisp_controllers/issues/43#issuecomment-4002725344) in [utiasDSL/crisp_controllers](https://github.com/utiasDSL/crisp_controllers)
 4. ❗ Opened issue [#43](https://github.com/utiasDSL/crisp_controllers/issues/43) in [utiasDSL/crisp_controllers](https://github.com/utiasDSL/crisp_controllers)
