@@ -55,11 +55,11 @@ A philomath of digital geometry with AEC background.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monte Carlo Policy Evaluation in Continuous RL](https://blog.xingxinhe.com/2026/11/monte-carlo-policy-evaluation-in-continuous-rl/)
+- [HKUST PhD Chronicle, Week 64, Robotiq Gripper and Techno 293](https://blog.xingxinhe.com/2026/11/phd-chronicle-week-064-robotiq-gripper-and-techno-293/)
 - [HKUST PhD Chronicle, Week 63, Bimanual Teleop &amp; CycloneDDS](https://blog.xingxinhe.com/2026/11/phd-chronicle-week-063-bimanual-teleop-and-cyclonedds/)
 - [HKUST PhD Chronicle, Week 62, First Time on the Harness](https://blog.xingxinhe.com/2026/10/phd-chronicle-week-062-first-time-on-the-harness/)
 - [How to Approximate Value Functions with Linear Regression?](https://blog.xingxinhe.com/2026/10/how-to-approximate-value-functions-with-linear-regression/)
-- [HKUST PhD Chronicle, Week 61, PICO 4 Teleop and Franka DUO](https://blog.xingxinhe.com/2026/10/phd-chronicle-week-061-pico4-teleop-and-franka-duo/)
-- [HKUST PhD Chronicle, Week 60, From Single Arm to PICO 4](https://blog.xingxinhe.com/2026/10/phd-chronicle-week-060-from-single-arm-to-pico4/)
 <!-- BLOG-POST-LIST:END -->
 
 
